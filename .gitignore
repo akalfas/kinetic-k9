@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Massive Media / Diagnostic Outputs
+*.mp4
+*.mov
+*.m4a
+
+# Ultralytics Runs & Datasets
+runs/
+datasets/
+
+# Heavy Machine Learning Weights
+*.pt
+
+# Jupyter Notes / System Files
+.ipynb_checkpoints
+.DS_Store
